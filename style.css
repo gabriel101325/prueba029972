@@ -25,8 +25,9 @@ table {
 }
 
 table tr td {
-  border: solid 2px black;
+  border: solid 2px rgb(243, 209, 164);
   padding: 0;
+  border-radius: 10px;
 }
 
 td:first-child {
@@ -38,8 +39,89 @@ td:last-child {
   text-align: center;
 }
 
-.barra {
+.barra1 {
   width: 82%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra2 {
+  width: 73%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra3 {
+  width: 68%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra4 {
+  width: 61%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra5 {
+  width: 81%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra6 {
+  width: 64%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra7 {
+  width: 67%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra8 {
+  width: 58%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra9 {
+  width: 74%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+.barra10 {
+  width: 76%;
   height: 100%;
   background-color: rgb(0, 0, 0);
   text-align: center;
