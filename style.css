@@ -46,6 +46,8 @@ td:last-child {
   text-align: center;
   line-height: 30px;
   color: white;
+  display: flex;
+  justify-content: space-around;
 }
 
 .barra2 {
